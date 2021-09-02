@@ -57,4 +57,3 @@ export default function Navbar(props) {
     </nav>
   );
 }
- create-react-app react-gh-pages
